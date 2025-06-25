@@ -1,0 +1,10 @@
+/* Puedes agregar esto en un archivo .css o dentro de <style> en tu login.php */
+.input-correcto {
+    border: 2px solid #28a745; /* Verde */
+    background-color: #eafaf1;
+}
+
+.input-incorrecto {
+    border: 2px solid #dc3545; /* Rojo */
+    background-color: #faeaea;
+}
